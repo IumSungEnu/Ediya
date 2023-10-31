@@ -1,6 +1,18 @@
 # Ediya
 Edita 키오스크 프로젝트
 
+## 사용언어
+- Java / HTML / CSS
+## 개발환경
+- eclipse
+
+## 프로젝트 목표
+1. 구매창(구매, 관리자)
+2. 회원가입, 로그인
+3. 구매 페이지
+4. 재고 수량 페이지
+5. 매출 관리
+
 ![project01](https://github.com/IumSungEnu/Ediya/assets/129242618/d8bdbad1-bea6-4254-98af-eae66cda4f09)
 ![project02](https://github.com/IumSungEnu/Ediya/assets/129242618/09b01d51-aab1-4d19-a1b9-28306636f969)
 ![project03](https://github.com/IumSungEnu/Ediya/assets/129242618/d14a6b56-27b1-44cf-8657-ee2451f5bedd)
