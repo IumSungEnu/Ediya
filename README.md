@@ -13,6 +13,8 @@ Edita 키오스크 프로젝트
 4. 재고 수량 페이지
 5. 매출 관리
 
+***
+
 ![project01](https://github.com/IumSungEnu/Ediya/assets/129242618/d8bdbad1-bea6-4254-98af-eae66cda4f09)
 ![project02](https://github.com/IumSungEnu/Ediya/assets/129242618/09b01d51-aab1-4d19-a1b9-28306636f969)
 ![project03](https://github.com/IumSungEnu/Ediya/assets/129242618/d14a6b56-27b1-44cf-8657-ee2451f5bedd)
@@ -23,4 +25,4 @@ Edita 키오스크 프로젝트
 ![project08](https://github.com/IumSungEnu/Ediya/assets/129242618/f998918f-0143-4465-b02f-dfc3aa9ac33c)
 ![project09](https://github.com/IumSungEnu/Ediya/assets/129242618/351ce159-169c-4760-bcca-78f6e081443d)
 
-
+***
